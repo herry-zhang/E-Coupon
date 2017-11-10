@@ -1,6 +1,6 @@
 App({
   onLaunch: function () {
-    wx.clearStorageSync()
+    wx.clearStorageSync();
   },
   globalData: {
     Acount: {
