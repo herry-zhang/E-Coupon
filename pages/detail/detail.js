@@ -27,7 +27,7 @@ Page({
     })
   },
   getCoupon: function (options) {
-    var that = this
+    var that = this;
     that.setData({
       loadingBtn: true
     })
