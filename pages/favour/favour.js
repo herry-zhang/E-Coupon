@@ -9,7 +9,7 @@ Page({
     selectCategory: "all",
     showCategoryName: "全部",
     selectIndex: 0,
-    inputContent: ""
+    inputContent: "" 
   },
   onLoad: function (options) {
     this.getCategoryList()
